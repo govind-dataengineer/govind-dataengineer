@@ -3,8 +3,8 @@
 
 
 
-- 🔭 **I’m currently working on:** Streaming data Pipeline
-- 🌱 **I’m currently learning:** Databricks, Pyspark, Azure ADF, SQL
+- 🔭 **I’m currently working with:** Telstra as Lead Data Engineer
+- 🌱 **I’m currently learning:** Streaming Data pipeline || REG and Agentic AI
 - 📫 **How to reach me:** G.singh.bora@gmail.com
 - ⚡ **Fun fact:** I Love Data
 - 
